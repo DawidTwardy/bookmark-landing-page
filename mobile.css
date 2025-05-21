@@ -561,3 +561,13 @@ a:visited {
     font-weight: bold;
     text-align: center;
 }
+#faq-dsc{
+    text-align: center;
+    
+}
+#faqdsc{
+    width: 100%;
+    float:left;
+    text-align: center;
+    color:hsl(229, 8%, 60%);
+}
